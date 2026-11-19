@@ -1,0 +1,16 @@
+HubID,HubName,City,State,HubType,CapacityPerDay
+1,Mumbai Central Hub,Mumbai,Maharashtra,Regional Hub,364
+2,Pune Central Hub,Pune,Maharashtra,Sorting Hub,531
+3,Bengaluru Central Hub,Bengaluru,Karnataka,Sorting Hub,478
+4,Chennai Central Hub,Chennai,Tamil Nadu,Sorting Hub,354
+5,Hyderabad Central Hub,Hyderabad,Telangana,Regional Hub,808
+6,Delhi Central Hub,Delhi,Delhi,Sorting Hub,854
+7,Ahmedabad Central Hub,Ahmedabad,Gujarat,Distribution Hub,282
+8,Kolkata Central Hub,Kolkata,West Bengal,Sorting Hub,345
+9,Jaipur Central Hub,Jaipur,Rajasthan,Sorting Hub,488
+10,Lucknow Central Hub,Lucknow,Uttar Pradesh,Regional Hub,866
+11,Kochi Central Hub,Kochi,Kerala,Sorting Hub,824
+12,Nagpur Central Hub,Nagpur,Maharashtra,Sorting Hub,808
+13,Surat Central Hub,Surat,Gujarat,Distribution Hub,475
+14,Indore Central Hub,Indore,Madhya Pradesh,Distribution Hub,853
+15,Coimbatore Central Hub,Coimbatore,Tamil Nadu,Distribution Hub,256

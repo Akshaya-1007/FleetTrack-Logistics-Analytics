@@ -1,0 +1,101 @@
+VehicleID,VehicleNumber,VehicleType,CapacityKg,VehicleStatus
+1,KA04E8381,LCV,3500,Maintenance
+2,KA46G8075,Pickup Van,800,Active
+3,KA85G2404,Two-Wheeler,25,Active
+4,KA92B2344,Pickup Van,800,Active
+5,KA49C7383,Pickup Van,800,Active
+6,KA14B1085,LCV,3500,Active
+7,KA47E2674,Heavy Truck,12000,Active
+8,KA24G8353,Mini Truck,1500,Maintenance
+9,KA04B6798,Mini Truck,1500,Active
+10,KA77F7311,Two-Wheeler,25,Active
+11,KA53G2387,LCV,3500,Active
+12,KA67C7237,Two-Wheeler,25,Active
+13,KA35E5397,Pickup Van,800,Maintenance
+14,KA09C8121,Pickup Van,800,Active
+15,KA39H2260,Heavy Truck,12000,Active
+16,KA32H4203,LCV,3500,Maintenance
+17,KA18E1110,Mini Truck,1500,Maintenance
+18,KA80G6399,LCV,3500,Maintenance
+19,KA56C5922,LCV,3500,Active
+20,KA89D8848,Two-Wheeler,25,Active
+21,KA51F5775,Pickup Van,800,Maintenance
+22,KA32F7161,Two-Wheeler,25,Active
+23,KA47B4273,Heavy Truck,12000,Active
+24,KA04H4434,Two-Wheeler,25,Maintenance
+25,KA89B7703,LCV,3500,Maintenance
+26,KA82E4965,Pickup Van,800,Active
+27,KA92G7176,Pickup Van,800,Active
+28,KA77H7566,Heavy Truck,12000,Maintenance
+29,KA05F9796,Two-Wheeler,25,Active
+30,KA99D6816,Mini Truck,1500,Active
+31,KA06G6432,Two-Wheeler,25,Maintenance
+32,KA02B5239,Mini Truck,1500,Active
+33,KA96D8303,Two-Wheeler,25,Active
+34,KA60C6651,Heavy Truck,12000,Active
+35,KA14E7815,Heavy Truck,12000,Active
+36,KA94C6707,Mini Truck,1500,Active
+37,KA59D9537,LCV,3500,Maintenance
+38,KA61B8178,LCV,3500,Maintenance
+39,KA09E1732,LCV,3500,Active
+40,KA44B3692,Mini Truck,1500,Active
+41,KA23C6422,Two-Wheeler,25,Maintenance
+42,KA30G4022,Heavy Truck,12000,Active
+43,KA51A4232,Heavy Truck,12000,Maintenance
+44,KA55G1072,Two-Wheeler,25,Active
+45,KA36B2667,Pickup Van,800,Active
+46,KA42D8496,LCV,3500,Active
+47,KA86H9646,LCV,3500,Active
+48,KA50G2871,Two-Wheeler,25,Active
+49,KA59C5873,LCV,3500,Active
+50,KA41B4908,Pickup Van,800,Active
+51,KA24F3316,Mini Truck,1500,Maintenance
+52,KA77C7286,Heavy Truck,12000,Maintenance
+53,KA63C3733,Pickup Van,800,Maintenance
+54,KA18C6154,LCV,3500,Maintenance
+55,KA07F1157,Two-Wheeler,25,Maintenance
+56,KA25G9281,Pickup Van,800,Maintenance
+57,KA88H7809,Heavy Truck,12000,Maintenance
+58,KA22B1505,Heavy Truck,12000,Active
+59,KA05E4683,LCV,3500,Active
+60,KA59H9369,Pickup Van,800,Active
+61,KA15E9898,Two-Wheeler,25,Active
+62,KA97A8231,Two-Wheeler,25,Active
+63,KA14D5877,Heavy Truck,12000,Active
+64,KA34F2425,Heavy Truck,12000,Maintenance
+65,KA31D6744,Mini Truck,1500,Maintenance
+66,KA79C4385,Pickup Van,800,Active
+67,KA73F9720,Mini Truck,1500,Active
+68,KA69C6302,Two-Wheeler,25,Active
+69,KA74E9428,LCV,3500,Active
+70,KA97G1971,Pickup Van,800,Active
+71,KA90C5090,Pickup Van,800,Active
+72,KA32G9019,LCV,3500,Active
+73,KA81E7786,Two-Wheeler,25,Maintenance
+74,KA10B7600,Heavy Truck,12000,Active
+75,KA59H6362,LCV,3500,Active
+76,KA94H6869,Mini Truck,1500,Active
+77,KA51D8039,Two-Wheeler,25,Active
+78,KA35F5646,Heavy Truck,12000,Active
+79,KA74C8951,Two-Wheeler,25,Active
+80,KA06B8529,Mini Truck,1500,Active
+81,KA21H8479,Mini Truck,1500,Active
+82,KA26C5945,Heavy Truck,12000,Active
+83,KA12F5102,LCV,3500,Active
+84,KA86C1848,LCV,3500,Maintenance
+85,KA93D8032,LCV,3500,Active
+86,KA01D8812,Mini Truck,1500,Active
+87,KA76D9510,Pickup Van,800,Maintenance
+88,KA02F2975,Mini Truck,1500,Maintenance
+89,KA62B4751,Pickup Van,800,Maintenance
+90,KA94B2690,Mini Truck,1500,Active
+91,KA39C7270,LCV,3500,Active
+92,KA09A3688,Pickup Van,800,Maintenance
+93,KA93D3480,LCV,3500,Maintenance
+94,KA88H4559,Two-Wheeler,25,Active
+95,KA18B7291,Mini Truck,1500,Active
+96,KA41C5059,Heavy Truck,12000,Active
+97,KA32E1439,Mini Truck,1500,Active
+98,KA67D7418,Pickup Van,800,Active
+99,KA31H7322,Mini Truck,1500,Active
+100,KA64B9655,Pickup Van,800,Active
