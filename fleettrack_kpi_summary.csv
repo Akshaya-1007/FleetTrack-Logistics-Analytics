@@ -1,0 +1,16 @@
+KPI,Value
+Unique Shipments,1000.0
+Delivery Records,1000.0
+Delivered,537.0
+Delayed,305.0
+In Transit,86.0
+Out for Delivery,54.0
+Cancelled,18.0
+On-time deliveries,537.0
+Late deliveries,305.0
+On-time rate (%),63.77672209026129
+Late rate (%),36.22327790973871
+Total shipping cost (INR),336429.74
+Average shipping cost (INR),336.42974
+Total shipment weight (kg),12689.17
+Average shipment weight (kg),12.68917
